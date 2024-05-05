@@ -1,6 +1,6 @@
-# Web DiceBot's Extentions
+# Web DiceBot's Extensions
 
-> These are extentions created by users to add more functionality to Web DiceBot
+> These are extensions created by users to add more functionality to Web DiceBot
 
 ## Thank to:
 
